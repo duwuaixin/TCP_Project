@@ -12,7 +12,7 @@ using namespace std;
 
 #define Server_Addr  "192.168.233.128"               // "127.0.0.1"     //"192.168.1.1"
 #define BUF_SIZE 1024
-#define PORT 8082
+#define PORT 8083
 
 int main()
 {
